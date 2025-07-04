@@ -1,0 +1,34 @@
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.Schema.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.CodeDom.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.ValueTuple.dll
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Newtonsoft.Json.Schema.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.CodeDom.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\System.ValueTuple.xml
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\TraducAmorous.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\TraducAmorous.MainForm.resources
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\TraducAmorous.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\TraducAmorous.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\TraducAm.DC21310A.Up2Date
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Amorous Text Editor.exe.config
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Amorous Text Editor.exe.manifest
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Amorous Text Editor.application
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Amorous Text Editor.exe
+C:\Users\Admin\source\repos\TraducAmorous\bin\Release\Amorous Text Editor.pdb
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\AmorousTextEditor.Properties.Resources.resources
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\Amorous Text Editor.exe.manifest
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\Amorous Text Editor.application
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\Amorous Text Editor.exe
+C:\Users\Admin\source\repos\TraducAmorous\obj\Release\Amorous Text Editor.pdb
